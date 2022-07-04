@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# 依赖
+node_modules/
+
+# 忽略开发者私有配置
+project.private.config.json
